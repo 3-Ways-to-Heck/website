@@ -1,32 +1,44 @@
 ---
-title: "Introducing Tina Grande \_\U0001F389"
-path: /blog/introducing-tina-grande
-date: '2019-11-06T00:00:00.000Z'
+title: "Getting Started in Cybersecurity"
+path: /blog/getting-started-cysec
+date: '2022-11-27T00:00:00.000Z'
 type: post
 authors:
-  - scott-byrne
+  - jack-keifer
 draft: false
 hero:
   image: ../images/coffee-beans.jpg
   large: false
   overlay: true
 tags:
-  - blog-post
-  - tina-cms
+  - beginners
 ---
 
-> **Tina Grande** is a Gatsby starter with full TinaCMS integration. You can use Tina to add and remove pages, customize the theme, write content and more!
+[This](https://github.com/pbrucla/PBR-Onboarding-And-Resources) guide from our friends at UCLA is probably the best way to get started, but here are some tools that we personally use.
 
-## Getting Started
+## Steganography
+* RX-SSTV (anything beep related)
+* Digital Invisible Ink Toolkit (relies on Java)
 
-```shell-session
-git clone https://github.com/tinacms/tina-starter-grande.git
+## Cryptography
+* [Cryptii](cryptii.com)
+* [DCode](dcode.fr) (for niche bases)
+* rapidtables (for common bases)
+* CyberChef (bruteforce)
 
-cd tina-starter-grande
+## Forensics
+* FTK Imager (or Autopsy)
+* 7-Zip
 
-yarn install && gatsby develop
-```
+## VMs
+* [Apache Guacamole](guac.baycyber.net) <- not the most reliable, but can help if you are on a Chromebook
+* VirtualBox + Parrot OS
 
-## Contributing
+## Network
+* Wireshark (for Packet Tracer)
+* Proton/SoftEther VPN
 
-Contribute by reporting bugs, requesting features or submiting improvements! We made this for you and would ❤️ any feedback or contributions to make **Tina Grande** better for everyone.
+## Reverse Engineering
+* Ghidra
+
+**For a list that's constantly updated, check [this](https://github.com/stars/mapoztate/lists/cysec) list out.**
