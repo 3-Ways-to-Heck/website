@@ -1,15 +1,39 @@
 {
   "authors": [
     {
-      "name": "Katie Graham",
-      "id": "katie-graham",
-      "email": "test@test.com"
+      "name": "Nathan Wagner",
+      "id": "nathan-wagner",
+      "email": "nwag038@gmail.com"
     },
     {
-      "id": "scott-byrne",
-      "name": "Scott Byrne",
-      "email": "scott.byrne@forestry.io",
-      "link": "mailto:scott.byrne@forestry.io"
+      "id": "jack-keifer",
+      "name": "Jack Keifer",
+      "email": "jackers2023@gmail.com",
+      "link": "mailto:jackers2023@gmail.com"
+    }
+    {
+      "id": "matthew-prado",
+      "name": "Matthew Prado",
+      "email": "matt@mapoztate.com",
+      "link": "mailto:matt@mapoztate.com"
+    }
+    {
+      "id": "katrina-lee",
+      "name": "Katrina Lee",
+      "email": "Katrina.Lee@utdallas.edu",
+      "link": "mailto:Katrina.Lee@utdallas.edu"
+    }
+    {
+      "id": "kumel-hasni",
+      "name": "Kumel Hasni",
+      "email": "kumel.h61110@gmail.com",
+      "link": "mailto:kumel.h61110@gmail.com"
+    }
+    {
+      "id": "ethan-evans",
+      "name": "Ethan Evans",
+      "email": "ethanalexevans@gmail.com",
+      "link": "mailto:ethanalexevans@gmail.com"
     }
   ]
 }
