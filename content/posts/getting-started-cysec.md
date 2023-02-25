@@ -7,7 +7,6 @@ authors:
   - jack-keifer
 draft: false
 hero:
-  image: ../images/coffee-beans.jpg
   large: false
   overlay: true
 tags:

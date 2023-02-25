@@ -8,7 +8,6 @@ authors:
   - matthew-prado
 draft: false
 hero:
-  image: ../images/coffee-beans.jpg
   large: false
   overlay: true
 tags:
