@@ -7,6 +7,7 @@ authors:
   - matthew-prado
 draft: false
 hero:
+  image: ../images/dummy.jpg
   large: false
   overlay: true
 tags:

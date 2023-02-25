@@ -7,6 +7,7 @@ authors:
   - jack-keifer
 draft: false
 hero:
+  image: ../images/dummy.jpg
   large: false
   overlay: true
 tags:
